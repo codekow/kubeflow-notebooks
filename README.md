@@ -9,4 +9,4 @@ In short, this work is intended to:
 - Focus on [notebooks only](https://github.com/kubeflow/kubeflow/tree/master/components/example-notebook-servers)
 - Help contribute upstream - not [this](https://github.com/red-hat-data-services/notebooks
 ) and [this](https://github.com/opendatahub-io/notebooks)
-- Avoid fragile design / duplicated work - [yes](https://github.com/redhat-na-ssa/demo-ocp-gpu/tree/main/containers/udi-cuda/ubi8) / [nope](https://github.com/opendatahub-io/notebooks/tree/main/cuda/c9s-python-3.9)
+- Avoid fragile design / duplicated work - [yes](https://github.com/redhat-na-ssa/demo-ocp-gpu/tree/main/containers/udi-cuda/ubi8) / [nope](https://github.com/opendatahub-io/notebooks/tree/main/cuda/c9s-python-3.9), [not this](https://github.com/opendatahub-io-contrib/workbench-images)
