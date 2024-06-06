@@ -1,0 +1,3 @@
+[submodule "kubeflow"]
+	path = kubeflow
+	url = https://github.com/kubeflow/kubeflow.git
